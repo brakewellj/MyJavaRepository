@@ -1,7 +1,7 @@
 MyJavaRepository
 ================
 
-Code is locate in Java directory
+Code is located in Java directory
 
 To compile use bin/compile.sh.
 
